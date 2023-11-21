@@ -1,3 +1,7 @@
+#Consider the string “Welcome to Python world”. Perform the following operations:
+#Count the number of alphabets in the given string.
+#To extract characters in the given, range from the given string.
+#Check if the string is alphanumeric or not.
 # Input the string
 input_string = "Welcome to Python World"
 
