@@ -1,4 +1,4 @@
-# Create a list to store student records
+#Write a program to create a list of student’s records and search a student record using a dictionary.
 student_records = []
 
 # Function to add a student record to the list
