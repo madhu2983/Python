@@ -1,3 +1,4 @@
+#Write a program to reverse every kth row in a matrix.
 def reverse_kth_rows(matrix, k):
     for i in range(0, len(matrix), k):
         matrix[i:i+k] = matrix[i:i+k][::-1]
