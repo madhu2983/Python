@@ -1,3 +1,4 @@
+#Write a program to illustrate iteration over the list and dictionary.
 # Iterating over a list
 fruits = ["apple", "banana", "cherry", "date"]
 
